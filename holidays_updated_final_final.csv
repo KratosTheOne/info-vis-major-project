@@ -1,190 +1,190 @@
 country,date_parsed,weekday,day,month,name_of_holiday,date_of_holiday,year_of_event,independence_from,year,date_mdy,region,historical_context
-Afghanistan,19-08-1919,Tuesday,19.0,Aug,Afghan Independence Day (Afghan Victory Day),August 19,1919.0,United Kingdom,1919.0,"August 19, 1919",Asia,Modern Era
-Albania,28-11-1912,Thursday,28.0,Nov,Flag Day (Dita e Flamurit),November 28,1912.0,Ottoman Empire,1912.0,"November 28, 1912",Europe,Modern Era
-Algeria,05-07-1962,Thursday,5.0,Jul,Independence Day,July 5,1962.0,France,1962.0,"July 5, 1962",Africa,Modern Era
-Angola,11-11-1975,Tuesday,11.0,Nov,Independence Day,November 11,1975.0,Portugal,1975.0,"November 11, 1975",Africa,Modern Era
-Antigua and Barbuda,01-11-1981,Sunday,1.0,Nov,Independence Day,November 1,1981.0,United Kingdom,1981.0,"November 1, 1981",North America,Modern Era
-Argentina,09-07-1816,Tuesday,9.0,Jul,Independence Day,July 9,1816.0,Spanish Empire,1816.0,"July 9, 1816",South America,Modern Era
-Armenia,28-05-1918,Tuesday,28.0,May,Republic Day,May 28,1918.0,Russian Soviet Federative Socialist Republic,1918.0,"May 28, 1918",Asia,Modern Era
-Armenia,21-09-1991,Saturday,21.0,Sep,Independence Day,September 21,1991.0,Soviet Union,1991.0,"September 21, 1991",Asia,Modern Era
-Austria,26-10-1955,Wednesday,26.0,Oct,National Day,October 26,1955.0,"Allied occupying powers (France, United Kingdom, United States and Soviet Union)",1955.0,"October 26, 1955",Europe,Modern Era
-Azerbaijan,28-05-1918,Tuesday,28.0,May,Republic Day,May 28,1918.0,Russian Soviet Federative Socialist Republic,1918.0,"May 28, 1918",Asia,Modern Era
-Azerbaijan,18-10-1991,Friday,18.0,Oct,Independence Day,October 18,1991.0,Soviet Union,1991.0,"October 18, 1991",Asia,Modern Era
-"Bahamas, The",10-07-1973,Tuesday,10.0,Jul,Independence Day,July 10,1973.0,United Kingdom,1973.0,"July 10, 1973",North America,Modern Era
-Bahrain,16-12-1971,Thursday,16.0,Dec,Independence Day,December 16,1971.0,United Kingdom,1971.0,"December 16, 1971",Asia,Modern Era
-Bangladesh,26-03-1971,Friday,26.0,Mar,Independence Day,March 26,1971.0,Pakistan,1971.0,"March 26, 1971",Asia,Modern Era
-Barbados,30-11-1966,Wednesday,30.0,Nov,Independence Day,November 30,1966.0,United Kingdom,1966.0,"November 30, 1966",North America,Modern Era
-Belarus,03-07-1944,Monday,3.0,Jul,Independence Day,July 3,1944.0,Nazi Germany,1944.0,"July 3, 1944",Europe,Modern Era
-Belgium,21-07-1831,Thursday,21.0,Jul,National Day,July 21,1831.0,United Netherlands,1831.0,"July 21, 1831",Europe,Modern Era
-Belize,21-09-1981,Monday,21.0,Sep,Independence Day,September 21,1981.0,United Kingdom,1981.0,"September 21, 1981",North America,Modern Era
-Benin,01-08-1960,Monday,1.0,Aug,Independence Day,August 1,1960.0,France,1960.0,"August 1, 1960",Africa,Modern Era
-Bolivia,06-08-1825,Saturday,6.0,Aug,Independence Day,August 6,1825.0,Spain,1825.0,"August 6, 1825",South America,Modern Era
-Bosnia and Herzegovina,01-03-1992,Sunday,1.0,Mar,Independence Day,March 1,1992.0,Socialist Federal Republic of Yugoslavia,1992.0,"March 1, 1992",Europe,Modern Era
-Botswana,30-09-1966,Friday,30.0,Sep,Independence Day,September 30,1966.0,United Kingdom,1966.0,"September 30, 1966",Africa,Modern Era
-Brazil,07-09-1822,Saturday,7.0,Sep,Independence Day (Dia da Independência),September 7,1822.0,"United Kingdom of Portugal, Brazil and the Algarves",1822.0,"September 7, 1822",South America,Modern Era
-Brunei,23-02-1984,Thursday,23.0,Feb,National Day,February 23,1984.0,United Kingdom,1984.0,"February 23, 1984",Asia,Modern Era
-Bulgaria,03-03-1878,Sunday,3.0,Mar,Liberation Day,March 3,1878.0,Ottoman Empire,1878.0,"March 3, 1878",Europe,Modern Era
-Bulgaria,05-10-1908,Monday,5.0,Oct,Independence Day,October 5,1908.0,Ottoman Empire,1908.0,"October 5, 1908",Europe,Modern Era
-Burkina Faso,11-12-1958,Thursday,11.0,Dec,Proclamation of Independence Day,December 11,1958.0,France,1958.0,"December 11, 1958",Africa,Modern Era
-Burkina Faso,05-08-1960,Friday,5.0,Aug,Independence Day,August 5,1960.0,France,1960.0,"August 5, 1960",Africa,Modern Era
-Burundi,01-07-1962,Sunday,1.0,Jul,Independence Day,July 1,1962.0,Belgium,1962.0,"July 1, 1962",Africa,Modern Era
-Cambodia,09-11-1953,Monday,9.0,Nov,Independence Day,November 9,1953.0,France,1953.0,"November 9, 1953",Asia,Modern Era
-Cape Verde,05-07-1975,Saturday,5.0,Jul,Independence Day,July 5,1975.0,Portugal,1975.0,"July 5, 1975",Africa,Modern Era
-Central African Republic,01-12-1958,Monday,1.0,Dec,National Day,December 1,1958.0,France,1958.0,"December 1, 1958",Africa,Modern Era
-Central African Republic,13-08-1960,Saturday,13.0,Aug,Independence Day,August 13,1960.0,France,1960.0,"August 13, 1960",Africa,Modern Era
-Chad,28-11-1958,Friday,28.0,Nov,Republic Day,November 28,1958.0,France,1958.0,"November 28, 1958",Africa,Modern Era
-Chad,11-08-1960,Thursday,11.0,Aug,Independence Day,August 11,1960.0,France,1960.0,"August 11, 1960",Africa,Modern Era
-Chile,18-09-1810,Tuesday,18.0,Sep,Independence Day (part of Fiestas Patrias),September 18,1810.0,Spanish Empire,1810.0,"September 18, 1810",South America,Modern Era
-Colombia,20-07-1810,Friday,20.0,Jul,Independence Day,July 20,1810.0,Spanish Empire,1810.0,"July 20, 1810",South America,Modern Era
-Comoros,06-07-1975,Sunday,6.0,Jul,Independence Day,July 6,1975.0,France,1975.0,"July 6, 1975",Africa,Modern Era
-"Congo, Democratic Republic of the",30-06-1960,Thursday,30.0,Jun,Independence Day,June 30,1960.0,Belgium,1960.0,"June 30, 1960",Africa,Modern Era
-"Congo, Republic of the",28-11-1958,Friday,28.0,Nov,Republic Day,November 28,1958.0,France,1958.0,"November 28, 1958",Africa,Modern Era
-"Congo, Republic of the",15-08-1960,Monday,15.0,Aug,Independence Day,August 15,1960.0,France,1960.0,"August 15, 1960",Africa,Modern Era
-Costa Rica,15-09-1821,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spanish Empire,1821.0,"September 15, 1821",North America,Modern Era
-Croatia,30-05-1990,Wednesday,30.0,May,Statehood Day,May 30,1990.0,SFR Yugoslavia,1990.0,"May 30, 1990",Europe,Modern Era
-Cuba,10-10-1868,Saturday,10.0,Oct,Commencement of the Wars of Independence[46],October 10,1868.0,Spanish Empire,1868.0,"October 10, 1868",North America,Modern Era
-Cyprus,01-04-1955,Friday,1.0,Apr,National Day,April 1,1955.0,United Kingdom,1955.0,"April 1, 1955",Asia,Modern Era
-Cyprus,01-10-1960,Saturday,1.0,Oct,Independence Day,October 1,1960.0,United Kingdom,1960.0,"October 1, 1960",Asia,Modern Era
-Czech Republic,28-10-1918,Monday,28.0,Oct,Independence Day,October 28,1918.0,Austria-Hungary,1918.0,"October 28, 1918",Europe,Modern Era
-Czech Republic,01-01-1993,Friday,1.0,Jan,Restoration Day,January 1,1993.0,Czechoslovakia,1993.0,"January 1, 1993",Europe,Modern Era
-Djibouti,27-06-1977,Monday,27.0,Jun,Independence Day,June 27,1977.0,France,1977.0,"June 27, 1977",Africa,Modern Era
-Dominica,03-11-1978,Friday,3.0,Nov,Independence Day,November 3,1978.0,United Kingdom,1978.0,"November 3, 1978",North America,Modern Era
-Dominican Republic,27-02-1821,Tuesday,27.0,Feb,"Unspecified (1821, Spain)",February 27,1821.0,Spain,1821.0,"February 27, 1821",North America,Modern Era
-East Timor,20-05-2002,Monday,20.0,May,"Unspecified (2002, Portugal)",May 20,2002.0,Portugal,2002.0,"May 20, 2002",,Modern Era
-Ecuador,10-08-1809,Thursday,10.0,Aug,Independence Day,August 10,1809.0,Spanish Empire,1809.0,"August 10, 1809",South America,Modern Era
-Ecuador,24-05-1822,Friday,24.0,May,"Unspecified (1822, Spanish Empire)",May 24,1822.0,Spanish Empire,1822.0,"May 24, 1822",South America,Modern Era
-El Salvador,15-09-1821,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spanish Empire,1821.0,"September 15, 1821",North America,Modern Era
-Equatorial Guinea,12-10-1968,Saturday,12.0,Oct,"Unspecified (1968, Spain)",October 12,1968.0,Spain,1968.0,"October 12, 1968",Africa,Modern Era
-Eritrea,24-05-1991,Friday,24.0,May,Independence Day,May 24,1991.0,Ethiopia,1991.0,"May 24, 1991",Africa,Modern Era
-Estonia,24-02-1918,Sunday,24.0,Feb,Independence Day,February 24,1918.0,Russian Soviet Federative Socialist Republic,1918.0,"February 24, 1918",Europe,Modern Era
-Estonia,20-08-1991,Tuesday,20.0,Aug,Day of Restoration of Independence[55],August 20,1991.0,Soviet Union[55],1991.0,"August 20, 1991",Europe,Modern Era
-Eswatini,06-09-1968,Friday,6.0,Sep,Somhlolo Day,September 6,1968.0,United Kingdom,1968.0,"September 6, 1968",Africa,Modern Era
-Fiji,10-10-1970,Saturday,10.0,Oct,Fiji Day,October 10,1970.0,United Kingdom,1970.0,"October 10, 1970",Oceania,Modern Era
-Finland,06-12-1917,Thursday,6.0,Dec,Independence Day,December 6,1917.0,Russian Soviet Federative Socialist Republic,1917.0,"December 6, 1917",Europe,Modern Era
-France,14-07-1789,Tuesday,14.0,Jul,National Day or Bastille Day,July 14,1789.0,None,1789.0,"July 14, 1789",Europe,Colonial Era
-Gabon,17-08-1960,Wednesday,17.0,Aug,"Unspecified (1960, France)",August 17,1960.0,France,1960.0,"August 17, 1960",Africa,Modern Era
-"Gambia, The",18-02-1965,Thursday,18.0,Feb,"Unspecified (1965, United Kingdom)",February 18,1965.0,United Kingdom,1965.0,"February 18, 1965",Africa,Modern Era
-Georgia,26-05-1918,Sunday,26.0,May,Independence Day,May 26,1918.0,Russian Soviet Federative Socialist Republic,1918.0,"May 26, 1918",Asia,Modern Era
-Georgia,09-04-1991,Tuesday,9.0,Apr,Day of National Unity,April 9,1991.0,Soviet Union,1991.0,"April 9, 1991",Asia,Modern Era
-Ghana,06-03-1957,Wednesday,6.0,Mar,Independence Day,March 6,1957.0,United Kingdom,1957.0,"March 6, 1957",Africa,Modern Era
-Greece,25-03-1821,Sunday,25.0,Mar,"Unspecified (1821, Ottoman Empire)",March 25,1821.0,Ottoman Empire,1821.0,"March 25, 1821",Europe,Modern Era
-Grenada,07-02-1974,Thursday,7.0,Feb,Independence Day,February 7,1974.0,United Kingdom,1974.0,"February 7, 1974",North America,Modern Era
-Guatemala,15-09-1821,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spanish Empire,1821.0,"September 15, 1821",North America,Modern Era
-Guinea,02-10-1958,Thursday,2.0,Oct,"Unspecified (1958, France)",October 2,1958.0,France,1958.0,"October 2, 1958",Africa,Modern Era
-Guinea-Bissau,24-09-1973,Monday,24.0,Sep,Independence Day,September 24,1973.0,Portugal,1973.0,"September 24, 1973",Africa,Modern Era
-Guyana,26-05-1966,Thursday,26.0,May,"Unspecified (1966, United Kingdom)",May 26,1966.0,United Kingdom,1966.0,"May 26, 1966",South America,Modern Era
-Haiti,01-01-1804,Sunday,1.0,Jan,Independence Day,January 1,1804.0,France,1804.0,"January 1, 1804",North America,Modern Era
-Honduras,15-09-1821,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spanish Empire,1821.0,"September 15, 1821",North America,Modern Era
-Hungary,Unknown Date,Wednesday,19.0,Jun,Day of Hungarian Freedom (A magyar szabadság napja),last Saturday of June,1991.0,None,1991.0,"last Saturday of June, 1991",Europe,Modern Era
-Iceland,17-06-1944,Saturday,17.0,Jun,Independence Day,June 17,1944.0,Denmark,1944.0,"June 17, 1944",Europe,Modern Era
-India,26-01-1950,Thursday,26.0,Jan,Republic Day,January 26,1950.0,None,1950.0,"January 26, 1950",Asia,Modern Era
-India,15-08-1947,Friday,15.0,Aug,Independence Day,August 15,1947.0,United Kingdom,1947.0,"August 15, 1947",Asia,Modern Era
-Indonesia,17-08-1945,Friday,17.0,Aug,Independence Day (Hari Kemerdekaan),August 17,1945.0,Netherlands and Japan,1945.0,"August 17, 1945",Asia,Modern Era
-Iran,01-04-1979,Sunday,1.0,Apr,"Unspecified (1979, None)",April 1,1979.0,None,1979.0,"April 1, 1979",Asia,Modern Era
-Iraq,03-10-1932,Monday,3.0,Oct,"Unspecified (1932, United Kingdom)",October 3,1932.0,United Kingdom,1932.0,"October 3, 1932",Asia,Modern Era
-Ireland,24-04-1916,Monday,24.0,Apr,"Unspecified (1916, United Kingdom of Great Britain and Ireland)",April 24,1916.0,United Kingdom of Great Britain and Ireland,1916.0,"April 24, 1916",Europe,Modern Era
-Israel,14-05-1948,Friday,14.0,May,Yom Ha'atzmaut,May 14,1948.0,United Kingdom and the British Mandate for Palestine,1948.0,"May 14, 1948",Asia,Modern Era
-Ivory Coast,07-08-1960,Sunday,7.0,Aug,"Unspecified (1960, France)",August 7,1960.0,France,1960.0,"August 7, 1960",Africa,Modern Era
-Jamaica,06-08-1962,Monday,6.0,Aug,"Unspecified (1962, United Kingdom)",August 6,1962.0,United Kingdom,1962.0,"August 6, 1962",North America,Modern Era
-Jordan,25-05-1946,Saturday,25.0,May,Independence Day,May 25,1946.0,United Kingdom,1946.0,"May 25, 1946",Asia,Modern Era
-Kazakhstan,16-12-1991,Monday,16.0,Dec,Independence Day,December 16,1991.0,Soviet Union,1991.0,"December 16, 1991",Asia,Modern Era
-Kenya,12-12-1963,Thursday,12.0,Dec,Jamhuri Day,December 12,1963.0,United Kingdom,1963.0,"December 12, 1963",Africa,Modern Era
-Kiribati,12-07-1979,Thursday,12.0,Jul,"Unspecified (1979, United Kingdom)",July 12,1979.0,United Kingdom,1979.0,"July 12, 1979",Oceania,Modern Era
-North Korea,15-08-1945,Wednesday,15.0,Aug,Chogukhaebangŭi nal,August 15,1945.0,Empire of Japan,1945.0,"August 15, 1945",Asia,Modern Era
-South Korea,01-03-1919,Saturday,1.0,Mar,Samiljeol,March 1,1919.0,Empire of Japan,1919.0,"March 1, 1919",Asia,Modern Era
-South Korea,15-08-1945,Wednesday,15.0,Aug,Gwangbokjeol,August 15,1945.0,Empire of Japan,1945.0,"August 15, 1945",Asia,Modern Era
-Kuwait,25-02-1961,Saturday,25.0,Feb,"Unspecified (1961, United Kingdom)",February 25,1961.0,United Kingdom,1961.0,"February 25, 1961",Asia,Modern Era
-Kyrgyzstan,31-08-1991,Saturday,31.0,Aug,Independence Day,August 31,1991.0,Soviet Union,1991.0,"August 31, 1991",Asia,Modern Era
-Latvia,18-11-1918,Monday,18.0,Nov,Proclamation Day of the Republic of Latvia,November 18,1918.0,Russian Soviet Federative Socialist Republic and German Empire,1918.0,"November 18, 1918",Europe,Modern Era
-Latvia,04-05-1990,Friday,4.0,May,"Unspecified (1990, Soviet Union)",May 4,1990.0,Soviet Union,1990.0,"May 4, 1990",Europe,Modern Era
-Lebanon,22-11-1943,Monday,22.0,Nov,Independence Day,November 22,1943.0,France,1943.0,"November 22, 1943",Asia,Modern Era
-Lesotho,04-10-1966,Tuesday,4.0,Oct,"Unspecified (1966, United Kingdom)",October 4,1966.0,United Kingdom,1966.0,"October 4, 1966",Africa,Modern Era
-Liberia,26-07-1847,Monday,26.0,Jul,Independence Day,July 26,1847.0,American Colonization Society,1847.0,"July 26, 1847",Africa,Modern Era
-Libya,24-12-1951,Monday,24.0,Dec,"Unspecified (1951, Italy)",December 24,1951.0,Italy,1951.0,"December 24, 1951",Africa,Modern Era
-Lithuania,16-02-1918,Saturday,16.0,Feb,Statehood Restoration Day,February 16,1918.0,Russian Soviet Federative Socialist Republic and German Empire,1918.0,"February 16, 1918",Europe,Modern Era
-Lithuania,11-03-1990,Sunday,11.0,Mar,Independence Restoration Day,March 11,1990.0,Soviet Union,1990.0,"March 11, 1990",Europe,Modern Era
-Madagascar,26-06-1960,Sunday,26.0,Jun,"Unspecified (1960, France)",June 26,1960.0,France,1960.0,"June 26, 1960",Africa,Modern Era
-Malawi,06-07-1964,Monday,6.0,Jul,"Unspecified (1964, United Kingdom)",July 6,1964.0,United Kingdom,1964.0,"July 6, 1964",Africa,Modern Era
-Malaysia,31-08-1957,Saturday,31.0,Aug,Hari Merdeka,August 31,1957.0,United Kingdom,1957.0,"August 31, 1957",Asia,Modern Era
-Maldives,26-07-1965,Monday,26.0,Jul,"Unspecified (1965, United Kingdom)",July 26,1965.0,United Kingdom,1965.0,"July 26, 1965",Asia,Modern Era
-Mali,22-09-1960,Thursday,22.0,Sep,"Unspecified (1960, France)",September 22,1960.0,France,1960.0,"September 22, 1960",Africa,Modern Era
-Malta,21-09-1964,Monday,21.0,Sep,Independence Day,September 21,1964.0,United Kingdom,1964.0,"September 21, 1964",Europe,Modern Era
-Mauritania,28-11-1960,Monday,28.0,Nov,"Unspecified (1960, France)",November 28,1960.0,France,1960.0,"November 28, 1960",Africa,Modern Era
-Mauritius,12-03-1968,Tuesday,12.0,Mar,"Unspecified (1968, United Kingdom)",March 12,1968.0,United Kingdom,1968.0,"March 12, 1968",Africa,Modern Era
-Mexico,16-09-1810,Sunday,16.0,Sep,Grito de DoloresDía de la Independéncia,September 16,1810.0,Spanish Empire,1810.0,"September 16, 1810",North America,Modern Era
-Micronesia,03-11-1986,Monday,3.0,Nov,Independence Day,November 3,1986.0,United States,1986.0,"November 3, 1986",Oceania,Modern Era
-Moldova,27-08-1991,Tuesday,27.0,Aug,Independence Day,August 27,1991.0,Soviet Union,1991.0,"August 27, 1991",Europe,Modern Era
-Mongolia,29-12-1911,Friday,29.0,Dec,Independence Day,December 29,1911.0,Qing China[65][66],1911.0,"December 29, 1911",Asia,Modern Era
-Montenegro,21-05-2006,Sunday,21.0,May,"Unspecified (2006, Serbia and Montenegro)",May 21,2006.0,Serbia and Montenegro,2006.0,"May 21, 2006",Europe,Modern Era
-Morocco,11-01-1944,Tuesday,11.0,Jan,Proclamation of Independence Day,January 11,1944.0,France and Spain,1944.0,"January 11, 1944",Africa,Modern Era
-Morocco,18-11-1955,Friday,18.0,Nov,Independence Day,November 18,1955.0,France and Spain,1955.0,"November 18, 1955",Africa,Modern Era
-Mozambique,25-06-1975,Wednesday,25.0,Jun,Independence DayDia da Independência Nacional,June 25,1975.0,Portugal,1975.0,"June 25, 1975",Africa,Modern Era
-Myanmar,04-01-1948,Sunday,4.0,Jan,Independence Day,January 4,1948.0,United Kingdom,1948.0,"January 4, 1948",Asia,Modern Era
-Namibia,21-03-1990,Wednesday,21.0,Mar,"Unspecified (1990, South Africa)",March 21,1990.0,South Africa,1990.0,"March 21, 1990",Africa,Modern Era
-Nauru,31-01-1968,Wednesday,31.0,Jan,"Unspecified (1968, Australia, New Zealand and the United Kingdom)",January 31,1968.0,"Australia, New Zealand and the United Kingdom",1968.0,"January 31, 1968",Oceania,Modern Era
-"Netherlands, The",26-07-1581,Sunday,26.0,Jul,"Unspecified (1581, Spanish Empire)",July 26,1581.0,Spanish Empire,1581.0,"July 26, 1581",Europe,Colonial Era
-Nicaragua,15-09-1821,Saturday,15.0,Sep,Independence Day,September 15,1821.0,Spanish Empire,1821.0,"September 15, 1821",North America,Modern Era
-Niger,03-08-1960,Wednesday,3.0,Aug,Independence Day,August 3,1960.0,France,1960.0,"August 3, 1960",Africa,Modern Era
-Nigeria,01-10-1960,Saturday,1.0,Oct,Independence Day,October 1,1960.0,United Kingdom,1960.0,"October 1, 1960",Africa,Modern Era
-North Macedonia,08-09-1991,Sunday,8.0,Sep,Independence Day (Den na nezavisnosta),September 8,1991.0,SFR Yugoslavia,1991.0,"September 8, 1991",Europe,Modern Era
-Norway,17-05-1814,Tuesday,17.0,May,Constitution Day,May 17,1814.0,Denmark,1814.0,"May 17, 1814",Europe,Modern Era
-Norway,07-06-1905,Wednesday,7.0,Jun,Independence Day,June 7,1905.0,Sweden,1905.0,"June 7, 1905",Europe,Modern Era
-Oman,18-11-1650,Friday,18.0,Nov,National Day,November 18,1650.0,Portugal,1650.0,"November 18, 1650",Asia,Colonial Era
-Pakistan,14-08-1947,Thursday,14.0,Aug,Independence Day (Youm-e-Azadi),August 14,1947.0,United Kingdom,1947.0,"August 14, 1947",Asia,Modern Era
-Palestine,15-11-1988,Tuesday,15.0,Nov,National Day,November 15,1988.0,Israel,1988.0,"November 15, 1988",Asia,Modern Era
-Panama,28-11-1821,Wednesday,28.0,Nov,"Unspecified (1821, Spain)",November 28,1821.0,Spain,1821.0,"November 28, 1821",North America,Modern Era
-Panama,03-11-1903,Tuesday,3.0,Nov,"Unspecified (1903, Colombia)",November 3,1903.0,Colombia,1903.0,"November 3, 1903",North America,Modern Era
-Papua New Guinea,16-09-1975,Tuesday,16.0,Sep,"Unspecified (1975, Australia of the former Territory of Papua and New Guinea)",September 16,1975.0,Australia of the former Territory of Papua and New Guinea,1975.0,"September 16, 1975",Oceania,Modern Era
-Paraguay,14-05-1811,Tuesday,14.0,May,Independence Day,May 14,1811.0,Spanish Empire[72],1811.0,"May 14, 1811",South America,Modern Era
-Peru,28-07-1821,Saturday,28.0,Jul,Fiestas Patrias,July 28,1821.0,Spanish Empire,1821.0,"July 28, 1821",South America,Modern Era
-Philippines,12-06-1898,Sunday,12.0,Jun,Independence Day (Araw ng Kalayaan or Araw ng Kasarinlan),June 12,1898.0,Spanish Empire,1898.0,"June 12, 1898",Asia,Modern Era
-Poland,11-11-1918,Monday,11.0,Nov,Independence Day (Święto Niepodległości),November 11,1918.0,Russian Soviet Federative Socialist Republic and German Empire,1918.0,"November 11, 1918",Europe,Modern Era
-Portugal,01-12-1640,Saturday,1.0,Dec,Restoration of Independence Day,December 1,1640.0,Spanish Empire,1640.0,"December 1, 1640",Europe,Colonial Era
-Qatar,18-12-1878,Wednesday,18.0,Dec,National Day,December 18,1878.0,Ottoman Empire,1878.0,"December 18, 1878",Asia,Modern Era
-Qatar,18-12-1971,Saturday,18.0,Dec,Independence from Britain,December 18,1971.0,United Kingdom,1971.0,"December 18, 1971",Asia,Modern Era
-Romania,09-05-1877,Wednesday,9.0,May,State Independence Day of Romania(Ziua Independenței de Stat a României),May 9,1877.0,Ottoman Empire,1877.0,"May 9, 1877",Europe,Modern Era
-Rwanda,01-07-1962,Sunday,1.0,Jul,Independence Day,July 1,1962.0,Belgium,1962.0,"July 1, 1962",Africa,Modern Era
-Saint Kitts and Nevis,19-09-1983,Monday,19.0,Sep,Independence Day,September 19,1983.0,United Kingdom,1983.0,"September 19, 1983",North America,Modern Era
-Saint Lucia,22-02-1979,Thursday,22.0,Feb,Independence Day,February 22,1979.0,United Kingdom,1979.0,"February 22, 1979",North America,Modern Era
-Saint Vincent and the Grenadines,27-10-1979,Saturday,27.0,Oct,Independence Day,October 27,1979.0,United Kingdom,1979.0,"October 27, 1979",North America,Modern Era
-Samoa,01-06-1962,Friday,1.0,Jun,"Unspecified (1962, New Zealand)",June 1,1962.0,New Zealand,1962.0,"June 1, 1962",Oceania,Modern Era
-São Tomé and Príncipe,12-07-1975,Saturday,12.0,Jul,Independence Day,July 12,1975.0,Portugal,1975.0,"July 12, 1975",Africa,Modern Era
-Saudi Arabia,23-09-1932,Friday,23.0,Sep,National Day,September 23,1932.0,None,1932.0,"September 23, 1932",Asia,Modern Era
-Senegal,04-04-1960,Monday,4.0,Apr,Independence Day,April 4,1960.0,France,1960.0,"April 4, 1960",Africa,Modern Era
-Serbia,15-02-1804,Wednesday,15.0,Feb,Statehood Day,February 15,1804.0,Ottoman Empire,1804.0,"February 15, 1804",Europe,Modern Era
-Seychelles,29-06-1976,Tuesday,29.0,Jun,"Unspecified (1976, United Kingdom)",June 29,1976.0,United Kingdom,1976.0,"June 29, 1976",Africa,Modern Era
-Sierra Leone,27-04-1961,Thursday,27.0,Apr,Independence Day,April 27,1961.0,United Kingdom,1961.0,"April 27, 1961",Africa,Modern Era
-Singapore,09-08-1965,Monday,9.0,Aug,National Day,August 9,1965.0,Malaysia,1965.0,"August 9, 1965",Asia,Modern Era
-Slovakia,17-07-1992,Friday,17.0,Jul,"Unspecified (1992, None)",July 17,1992.0,None,1992.0,"July 17, 1992",Europe,Modern Era
-Slovenia,25-06-1991,Tuesday,25.0,Jun,Independence and Unity Day,June 25,1991.0,SFR Yugoslavia,1991.0,"June 25, 1991",Europe,Modern Era
-Solomon Islands,07-07-1978,Friday,7.0,Jul,Independence Day,July 7,1978.0,United Kingdom,1978.0,"July 7, 1978",Oceania,Modern Era
-Somalia,01-07-1960,Friday,1.0,Jul,Independence Day,July 1,1960.0,Italy and United Kingdom,1960.0,"July 1, 1960",Africa,Modern Era
-South Africa,11-12-1931,Friday,11.0,Dec,Not a holiday,December 11,1931.0,United Kingdom,1931.0,"December 11, 1931",Africa,Modern Era
-South Sudan,09-07-2011,Saturday,9.0,Jul,Independence Day,July 9,2011.0,Sudan,2011.0,"July 9, 2011",Africa,Modern Era
-Sri Lanka,04-02-1948,Wednesday,4.0,Feb,Independence Day,February 4,1948.0,United Kingdom,1948.0,"February 4, 1948",Asia,Modern Era
-Sudan,01-01-1956,Sunday,1.0,Jan,Independence Day,January 1,1956.0,Egypt and the United Kingdom,1956.0,"January 1, 1956",Africa,Modern Era
-Suriname,25-11-1975,Tuesday,25.0,Nov,Independence Day,November 25,1975.0,Netherlands,1975.0,"November 25, 1975",South America,Modern Era
-Sweden,06-06-1523,Wednesday,6.0,Jun,National Day,June 6,1523.0,None,1523.0,"June 6, 1523",Europe,Colonial Era
-Switzerland,01-08-1291,Wednesday,1.0,Aug,Swiss National Day,August 1,1291.0,None,1291.0,"August 1, 1291",Europe,Medieval Era
-Syria,17-04-1946,Wednesday,17.0,Apr,Evacuation Day,April 17,1946.0,France,1946.0,"April 17, 1946",Asia,Modern Era
-Tajikistan,09-09-1991,Monday,9.0,Sep,Independence Day,September 9,1991.0,Soviet Union,1991.0,"September 9, 1991",Asia,Modern Era
-Tanzania,09-12-1961,Saturday,9.0,Dec,"Unspecified (1961, United Kingdom)",December 9,1961.0,United Kingdom,1961.0,"December 9, 1961",Africa,Modern Era
-Togo,27-04-1960,Wednesday,27.0,Apr,"Unspecified (1960, France)",April 27,1960.0,France,1960.0,"April 27, 1960",Africa,Modern Era
-Tonga,04-06-1970,Thursday,4.0,Jun,"Unspecified (1970, United Kingdom)",June 4,1970.0,United Kingdom,1970.0,"June 4, 1970",Oceania,Modern Era
-Trinidad and Tobago,31-08-1962,Friday,31.0,Aug,Independence Day,August 31,1962.0,United Kingdom,1962.0,"August 31, 1962",North America,Modern Era
-Tunisia,20-03-1956,Tuesday,20.0,Mar,Independence Day,March 20,1956.0,France,1956.0,"March 20, 1956",Africa,Modern Era
-Turkmenistan,27-09-1991,Friday,27.0,Sep,Independence Day,September 27,1991.0,Soviet Union[80],1991.0,"September 27, 1991",Asia,Modern Era
-Tuvalu,01-10-1978,Sunday,1.0,Oct,Independence Day,October 1,1978.0,United Kingdom,1978.0,"October 1, 1978",Oceania,Modern Era
-Uganda,09-10-1962,Tuesday,9.0,Oct,Independence Day,October 9,1962.0,United Kingdom,1962.0,"October 9, 1962",Africa,Modern Era
-Ukraine,24-08-1991,Saturday,24.0,Aug,Independence Day,August 24,1991.0,Soviet Union,1991.0,"August 24, 1991",Europe,Modern Era
-Ukraine,22-01-1919,Wednesday,22.0,Jan,Day of Unity,January 22,1919.0,Russian Soviet Federative Socialist Republic,1919.0,"January 22, 1919",Europe,Modern Era
-United Arab Emirates,02-12-1971,Thursday,2.0,Dec,National Day,December 2,1971.0,United Kingdom,1971.0,"December 2, 1971",Asia,Modern Era
-United States,04-07-1776,Thursday,4.0,Jul,Independence Day or Fourth of July,July 4,1776.0,Kingdom of Great Britain,1776.0,"July 4, 1776",North America,Colonial Era
-Uruguay,25-08-1825,Thursday,25.0,Aug,Independence Day,August 25,1825.0,United Provinces of the Rio de la Plata,1825.0,"August 25, 1825",South America,Modern Era
-Uzbekistan,01-09-1991,Sunday,1.0,Sep,Independence Day,September 1,1991.0,Soviet Union,1991.0,"September 1, 1991",Asia,Modern Era
-Vanuatu,30-07-1980,Wednesday,30.0,Jul,Independence Day,July 30,1980.0,United Kingdom and France,1980.0,"July 30, 1980",Oceania,Modern Era
-Venezuela,05-07-1811,Friday,5.0,Jul,Independence Day,July 5,1811.0,Spanish Empire,1811.0,"July 5, 1811",South America,Modern Era
-Vietnam,02-09-1945,Sunday,2.0,Sep,Independence Day,September 2,1945.0,Empire of Japan and France,1945.0,"September 2, 1945",Asia,Modern Era
-Yemen,30-11-1967,Thursday,30.0,Nov,"Unspecified (1967, United Kingdom)",November 30,1967.0,United Kingdom,1967.0,"November 30, 1967",Asia,Modern Era
-Zambia,24-10-1964,Saturday,24.0,Oct,Independence Day,October 24,1964.0,United Kingdom,1964.0,"October 24, 1964",Africa,Modern Era
-Zimbabwe,18-04-1980,Friday,18.0,Apr,Independence Day,April 18,1980.0,United Kingdom,1980.0,"April 18, 1980",Africa,Modern Era
+Afghanistan,19-08-1919,Tuesday,19,Aug,Afghan Independence Day (Afghan Victory Day),Aug-19,1919,United Kingdom,1919,"August 19, 1919",Asia,Modern Era
+Albania,28-11-1912,Thursday,28,Nov,Flag Day (Dita e Flamurit),Nov-28,1912,Ottoman Empire,1912,"November 28, 1912",Europe,Modern Era
+Algeria,05-07-1962,Thursday,5,Jul,Independence Day,Jul-05,1962,France,1962,"July 5, 1962",Africa,Modern Era
+Angola,11-11-1975,Tuesday,11,Nov,Independence Day,Nov-11,1975,Portugal,1975,"November 11, 1975",Africa,Modern Era
+Antigua and Barbuda,01-11-1981,Sunday,1,Nov,Independence Day,Nov-01,1981,United Kingdom,1981,"November 1, 1981",North America,Modern Era
+Argentina,09-07-1816,Tuesday,9,Jul,Independence Day,Jul-09,1816,Spanish Empire,1816,"July 9, 1816",South America,Modern Era
+Armenia,28-05-1918,Tuesday,28,May,Republic Day,May-28,1918,Russian Soviet Federative Socialist Republic,1918,"May 28, 1918",Asia,Modern Era
+Armenia,21-09-1991,Saturday,21,Sep,Independence Day,Sep-21,1991,Soviet Union,1991,"September 21, 1991",Asia,Modern Era
+Austria,26-10-1955,Wednesday,26,Oct,National Day,Oct-26,1955,"Allied occupying powers (France, United Kingdom, United States and Soviet Union)",1955,"October 26, 1955",Europe,Modern Era
+Azerbaijan,28-05-1918,Tuesday,28,May,Republic Day,May-28,1918,Russian Soviet Federative Socialist Republic,1918,"May 28, 1918",Asia,Modern Era
+Azerbaijan,18-10-1991,Friday,18,Oct,Independence Day,Oct-18,1991,Soviet Union,1991,"October 18, 1991",Asia,Modern Era
+"Bahamas, The",10-07-1973,Tuesday,10,Jul,Independence Day,Jul-10,1973,United Kingdom,1973,"July 10, 1973",North America,Modern Era
+Bahrain,16-12-1971,Thursday,16,Dec,Independence Day,Dec-16,1971,United Kingdom,1971,"December 16, 1971",Asia,Modern Era
+Bangladesh,26-03-1971,Friday,26,Mar,Independence Day,Mar-26,1971,Pakistan,1971,"March 26, 1971",Asia,Modern Era
+Barbados,30-11-1966,Wednesday,30,Nov,Independence Day,Nov-30,1966,United Kingdom,1966,"November 30, 1966",North America,Modern Era
+Belarus,03-07-1944,Monday,3,Jul,Independence Day,Jul-03,1944,Nazi Germany,1944,"July 3, 1944",Europe,Modern Era
+Belgium,21-07-1831,Thursday,21,Jul,National Day,Jul-21,1831,United Netherlands,1831,"July 21, 1831",Europe,Modern Era
+Belize,21-09-1981,Monday,21,Sep,Independence Day,Sep-21,1981,United Kingdom,1981,"September 21, 1981",North America,Modern Era
+Benin,01-08-1960,Monday,1,Aug,Independence Day,Aug-01,1960,France,1960,"August 1, 1960",Africa,Modern Era
+Bolivia,06-08-1825,Saturday,6,Aug,Independence Day,Aug-06,1825,Spain,1825,"August 6, 1825",South America,Modern Era
+Bosnia and Herzegovina,01-03-1992,Sunday,1,Mar,Independence Day,Mar-01,1992,Socialist Federal Republic of Yugoslavia,1992,"March 1, 1992",Europe,Modern Era
+Botswana,30-09-1966,Friday,30,Sep,Independence Day,Sep-30,1966,United Kingdom,1966,"September 30, 1966",Africa,Modern Era
+Brazil,07-09-1822,Saturday,7,Sep,Independence Day (Dia da Independência),Sep-07,1822,"United Kingdom of Portugal, Brazil and the Algarves",1822,"September 7, 1822",South America,Modern Era
+Brunei,23-02-1984,Thursday,23,Feb,National Day,Feb-23,1984,United Kingdom,1984,"February 23, 1984",Asia,Modern Era
+Bulgaria,03-03-1878,Sunday,3,Mar,Liberation Day,Mar-03,1878,Ottoman Empire,1878,"March 3, 1878",Europe,Modern Era
+Bulgaria,05-10-1908,Monday,5,Oct,Independence Day,Oct-05,1908,Ottoman Empire,1908,"October 5, 1908",Europe,Modern Era
+Burkina Faso,11-12-1958,Thursday,11,Dec,Proclamation of Independence Day,Dec-11,1958,France,1958,"December 11, 1958",Africa,Modern Era
+Burkina Faso,05-08-1960,Friday,5,Aug,Independence Day,Aug-05,1960,France,1960,"August 5, 1960",Africa,Modern Era
+Burundi,01-07-1962,Sunday,1,Jul,Independence Day,Jul-01,1962,Belgium,1962,"July 1, 1962",Africa,Modern Era
+Cambodia,09-11-1953,Monday,9,Nov,Independence Day,Nov-09,1953,France,1953,"November 9, 1953",Asia,Modern Era
+Cape Verde,05-07-1975,Saturday,5,Jul,Independence Day,Jul-05,1975,Portugal,1975,"July 5, 1975",Africa,Modern Era
+Central African Republic,01-12-1958,Monday,1,Dec,National Day,Dec-01,1958,France,1958,"December 1, 1958",Africa,Modern Era
+Central African Republic,13-08-1960,Saturday,13,Aug,Independence Day,Aug-13,1960,France,1960,"August 13, 1960",Africa,Modern Era
+Chad,28-11-1958,Friday,28,Nov,Republic Day,Nov-28,1958,France,1958,"November 28, 1958",Africa,Modern Era
+Chad,11-08-1960,Thursday,11,Aug,Independence Day,Aug-11,1960,France,1960,"August 11, 1960",Africa,Modern Era
+Chile,18-09-1810,Tuesday,18,Sep,Independence Day (part of Fiestas Patrias),Sep-18,1810,Spanish Empire,1810,"September 18, 1810",South America,Modern Era
+Colombia,20-07-1810,Friday,20,Jul,Independence Day,Jul-20,1810,Spanish Empire,1810,"July 20, 1810",South America,Modern Era
+Comoros,06-07-1975,Sunday,6,Jul,Independence Day,Jul-06,1975,France,1975,"July 6, 1975",Africa,Modern Era
+"Congo, Democratic Republic of the",30-06-1960,Thursday,30,Jun,Independence Day,Jun-30,1960,Belgium,1960,"June 30, 1960",Africa,Modern Era
+"Congo, Republic of the",28-11-1958,Friday,28,Nov,Republic Day,Nov-28,1958,France,1958,"November 28, 1958",Africa,Modern Era
+"Congo, Republic of the",15-08-1960,Monday,15,Aug,Independence Day,Aug-15,1960,France,1960,"August 15, 1960",Africa,Modern Era
+Costa Rica,15-09-1821,Saturday,15,Sep,Independence Day,Sep-15,1821,Spanish Empire,1821,"September 15, 1821",North America,Modern Era
+Croatia,30-05-1990,Wednesday,30,May,Statehood Day,May-30,1990,SFR Yugoslavia,1990,"May 30, 1990",Europe,Modern Era
+Cuba,10-10-1868,Saturday,10,Oct,Commencement of the Wars of Independence[46],Oct-10,1868,Spanish Empire,1868,"October 10, 1868",North America,Modern Era
+Cyprus,01-04-1955,Friday,1,Apr,National Day,Apr-01,1955,United Kingdom,1955,"April 1, 1955",Asia,Modern Era
+Cyprus,01-10-1960,Saturday,1,Oct,Independence Day,Oct-01,1960,United Kingdom,1960,"October 1, 1960",Asia,Modern Era
+Czech Republic,28-10-1918,Monday,28,Oct,Independence Day,Oct-28,1918,Austria-Hungary,1918,"October 28, 1918",Europe,Modern Era
+Czech Republic,01-01-1993,Friday,1,Jan,Restoration Day,Jan-01,1993,Czechoslovakia,1993,"January 1, 1993",Europe,Modern Era
+Djibouti,27-06-1977,Monday,27,Jun,Independence Day,Jun-27,1977,France,1977,"June 27, 1977",Africa,Modern Era
+Dominica,03-11-1978,Friday,3,Nov,Independence Day,Nov-03,1978,United Kingdom,1978,"November 3, 1978",North America,Modern Era
+Dominican Republic,27-02-1821,Tuesday,27,Feb,"Unspecified (1821, Spain)",Feb-27,1821,Spain,1821,"February 27, 1821",North America,Modern Era
+East Timor,20-05-2002,Monday,20,May,"Unspecified (2002, Portugal)",May-20,2002,Portugal,2002,"May 20, 2002",Asia,Modern Era
+Ecuador,10-08-1809,Thursday,10,Aug,Independence Day,Aug-10,1809,Spanish Empire,1809,"August 10, 1809",South America,Modern Era
+Ecuador,24-05-1822,Friday,24,May,"Unspecified (1822, Spanish Empire)",May-24,1822,Spanish Empire,1822,"May 24, 1822",South America,Modern Era
+El Salvador,15-09-1821,Saturday,15,Sep,Independence Day,Sep-15,1821,Spanish Empire,1821,"September 15, 1821",North America,Modern Era
+Equatorial Guinea,12-10-1968,Saturday,12,Oct,"Unspecified (1968, Spain)",Oct-12,1968,Spain,1968,"October 12, 1968",Africa,Modern Era
+Eritrea,24-05-1991,Friday,24,May,Independence Day,May-24,1991,Ethiopia,1991,"May 24, 1991",Africa,Modern Era
+Estonia,24-02-1918,Sunday,24,Feb,Independence Day,Feb-24,1918,Russian Soviet Federative Socialist Republic,1918,"February 24, 1918",Europe,Modern Era
+Estonia,20-08-1991,Tuesday,20,Aug,Day of Restoration of Independence[55],Aug-20,1991,Soviet Union[55],1991,"August 20, 1991",Europe,Modern Era
+Eswatini,06-09-1968,Friday,6,Sep,Somhlolo Day,Sep-06,1968,United Kingdom,1968,"September 6, 1968",Africa,Modern Era
+Fiji,10-10-1970,Saturday,10,Oct,Fiji Day,Oct-10,1970,United Kingdom,1970,"October 10, 1970",Oceania,Modern Era
+Finland,06-12-1917,Thursday,6,Dec,Independence Day,Dec-06,1917,Russian Soviet Federative Socialist Republic,1917,"December 6, 1917",Europe,Modern Era
+France,14-07-1789,Tuesday,14,Jul,National Day or Bastille Day,Jul-14,1789,None,1789,"July 14, 1789",Europe,Colonial Era
+Gabon,17-08-1960,Wednesday,17,Aug,"Unspecified (1960, France)",Aug-17,1960,France,1960,"August 17, 1960",Africa,Modern Era
+"Gambia, The",18-02-1965,Thursday,18,Feb,"Unspecified (1965, United Kingdom)",Feb-18,1965,United Kingdom,1965,"February 18, 1965",Africa,Modern Era
+Georgia,26-05-1918,Sunday,26,May,Independence Day,May-26,1918,Russian Soviet Federative Socialist Republic,1918,"May 26, 1918",Asia,Modern Era
+Georgia,09-04-1991,Tuesday,9,Apr,Day of National Unity,Apr-09,1991,Soviet Union,1991,"April 9, 1991",Asia,Modern Era
+Ghana,06-03-1957,Wednesday,6,Mar,Independence Day,Mar-06,1957,United Kingdom,1957,"March 6, 1957",Africa,Modern Era
+Greece,25-03-1821,Sunday,25,Mar,"Unspecified (1821, Ottoman Empire)",Mar-25,1821,Ottoman Empire,1821,"March 25, 1821",Europe,Modern Era
+Grenada,07-02-1974,Thursday,7,Feb,Independence Day,Feb-07,1974,United Kingdom,1974,"February 7, 1974",North America,Modern Era
+Guatemala,15-09-1821,Saturday,15,Sep,Independence Day,Sep-15,1821,Spanish Empire,1821,"September 15, 1821",North America,Modern Era
+Guinea,02-10-1958,Thursday,2,Oct,"Unspecified (1958, France)",Oct-02,1958,France,1958,"October 2, 1958",Africa,Modern Era
+Guinea-Bissau,24-09-1973,Monday,24,Sep,Independence Day,Sep-24,1973,Portugal,1973,"September 24, 1973",Africa,Modern Era
+Guyana,26-05-1966,Thursday,26,May,"Unspecified (1966, United Kingdom)",May-26,1966,United Kingdom,1966,"May 26, 1966",South America,Modern Era
+Haiti,01-01-1804,Sunday,1,Jan,Independence Day,Jan-01,1804,France,1804,"January 1, 1804",North America,Modern Era
+Honduras,15-09-1821,Saturday,15,Sep,Independence Day,Sep-15,1821,Spanish Empire,1821,"September 15, 1821",North America,Modern Era
+Hungary,Unknown Date,Wednesday,19,Jun,Day of Hungarian Freedom (A magyar szabadság napja),last Saturday of June,1991,None,1991,"last Saturday of June, 1991",Europe,Modern Era
+Iceland,17-06-1944,Saturday,17,Jun,Independence Day,Jun-17,1944,Denmark,1944,"June 17, 1944",Europe,Modern Era
+India,26-01-1950,Thursday,26,Jan,Republic Day,Jan-26,1950,None,1950,"January 26, 1950",Asia,Modern Era
+India,15-08-1947,Friday,15,Aug,Independence Day,Aug-15,1947,United Kingdom,1947,"August 15, 1947",Asia,Modern Era
+Indonesia,17-08-1945,Friday,17,Aug,Independence Day (Hari Kemerdekaan),Aug-17,1945,Netherlands and Japan,1945,"August 17, 1945",Asia,Modern Era
+Iran,01-04-1979,Sunday,1,Apr,"Unspecified (1979, None)",Apr-01,1979,None,1979,"April 1, 1979",Asia,Modern Era
+Iraq,03-10-1932,Monday,3,Oct,"Unspecified (1932, United Kingdom)",Oct-03,1932,United Kingdom,1932,"October 3, 1932",Asia,Modern Era
+Ireland,24-04-1916,Monday,24,Apr,"Unspecified (1916, United Kingdom of Great Britain and Ireland)",Apr-24,1916,United Kingdom of Great Britain and Ireland,1916,"April 24, 1916",Europe,Modern Era
+Israel,14-05-1948,Friday,14,May,Yom Ha'atzmaut,May-14,1948,United Kingdom and the British Mandate for Palestine,1948,"May 14, 1948",Asia,Modern Era
+Ivory Coast,07-08-1960,Sunday,7,Aug,"Unspecified (1960, France)",Aug-07,1960,France,1960,"August 7, 1960",Africa,Modern Era
+Jamaica,06-08-1962,Monday,6,Aug,"Unspecified (1962, United Kingdom)",Aug-06,1962,United Kingdom,1962,"August 6, 1962",North America,Modern Era
+Jordan,25-05-1946,Saturday,25,May,Independence Day,May-25,1946,United Kingdom,1946,"May 25, 1946",Asia,Modern Era
+Kazakhstan,16-12-1991,Monday,16,Dec,Independence Day,Dec-16,1991,Soviet Union,1991,"December 16, 1991",Asia,Modern Era
+Kenya,12-12-1963,Thursday,12,Dec,Jamhuri Day,Dec-12,1963,United Kingdom,1963,"December 12, 1963",Africa,Modern Era
+Kiribati,12-07-1979,Thursday,12,Jul,"Unspecified (1979, United Kingdom)",Jul-12,1979,United Kingdom,1979,"July 12, 1979",Oceania,Modern Era
+North Korea,15-08-1945,Wednesday,15,Aug,Chogukhaebangŭi nal,Aug-15,1945,Empire of Japan,1945,"August 15, 1945",Asia,Modern Era
+South Korea,01-03-1919,Saturday,1,Mar,Samiljeol,Mar-01,1919,Empire of Japan,1919,"March 1, 1919",Asia,Modern Era
+South Korea,15-08-1945,Wednesday,15,Aug,Gwangbokjeol,Aug-15,1945,Empire of Japan,1945,"August 15, 1945",Asia,Modern Era
+Kuwait,25-02-1961,Saturday,25,Feb,"Unspecified (1961, United Kingdom)",Feb-25,1961,United Kingdom,1961,"February 25, 1961",Asia,Modern Era
+Kyrgyzstan,31-08-1991,Saturday,31,Aug,Independence Day,Aug-31,1991,Soviet Union,1991,"August 31, 1991",Asia,Modern Era
+Latvia,18-11-1918,Monday,18,Nov,Proclamation Day of the Republic of Latvia,Nov-18,1918,Russian Soviet Federative Socialist Republic and German Empire,1918,"November 18, 1918",Europe,Modern Era
+Latvia,04-05-1990,Friday,4,May,"Unspecified (1990, Soviet Union)",May-04,1990,Soviet Union,1990,"May 4, 1990",Europe,Modern Era
+Lebanon,22-11-1943,Monday,22,Nov,Independence Day,Nov-22,1943,France,1943,"November 22, 1943",Asia,Modern Era
+Lesotho,04-10-1966,Tuesday,4,Oct,"Unspecified (1966, United Kingdom)",Oct-04,1966,United Kingdom,1966,"October 4, 1966",Africa,Modern Era
+Liberia,26-07-1847,Monday,26,Jul,Independence Day,Jul-26,1847,American Colonization Society,1847,"July 26, 1847",Africa,Modern Era
+Libya,24-12-1951,Monday,24,Dec,"Unspecified (1951, Italy)",Dec-24,1951,Italy,1951,"December 24, 1951",Africa,Modern Era
+Lithuania,16-02-1918,Saturday,16,Feb,Statehood Restoration Day,Feb-16,1918,Russian Soviet Federative Socialist Republic and German Empire,1918,"February 16, 1918",Europe,Modern Era
+Lithuania,11-03-1990,Sunday,11,Mar,Independence Restoration Day,Mar-11,1990,Soviet Union,1990,"March 11, 1990",Europe,Modern Era
+Madagascar,26-06-1960,Sunday,26,Jun,"Unspecified (1960, France)",Jun-26,1960,France,1960,"June 26, 1960",Africa,Modern Era
+Malawi,06-07-1964,Monday,6,Jul,"Unspecified (1964, United Kingdom)",Jul-06,1964,United Kingdom,1964,"July 6, 1964",Africa,Modern Era
+Malaysia,31-08-1957,Saturday,31,Aug,Hari Merdeka,Aug-31,1957,United Kingdom,1957,"August 31, 1957",Asia,Modern Era
+Maldives,26-07-1965,Monday,26,Jul,"Unspecified (1965, United Kingdom)",Jul-26,1965,United Kingdom,1965,"July 26, 1965",Asia,Modern Era
+Mali,22-09-1960,Thursday,22,Sep,"Unspecified (1960, France)",Sep-22,1960,France,1960,"September 22, 1960",Africa,Modern Era
+Malta,21-09-1964,Monday,21,Sep,Independence Day,Sep-21,1964,United Kingdom,1964,"September 21, 1964",Europe,Modern Era
+Mauritania,28-11-1960,Monday,28,Nov,"Unspecified (1960, France)",Nov-28,1960,France,1960,"November 28, 1960",Africa,Modern Era
+Mauritius,12-03-1968,Tuesday,12,Mar,"Unspecified (1968, United Kingdom)",Mar-12,1968,United Kingdom,1968,"March 12, 1968",Africa,Modern Era
+Mexico,16-09-1810,Sunday,16,Sep,Grito de DoloresDía de la Independéncia,Sep-16,1810,Spanish Empire,1810,"September 16, 1810",North America,Modern Era
+Micronesia,03-11-1986,Monday,3,Nov,Independence Day,Nov-03,1986,United States,1986,"November 3, 1986",Oceania,Modern Era
+Moldova,27-08-1991,Tuesday,27,Aug,Independence Day,Aug-27,1991,Soviet Union,1991,"August 27, 1991",Europe,Modern Era
+Mongolia,29-12-1911,Friday,29,Dec,Independence Day,Dec-29,1911,Qing China[65][66],1911,"December 29, 1911",Asia,Modern Era
+Montenegro,21-05-2006,Sunday,21,May,"Unspecified (2006, Serbia and Montenegro)",May-21,2006,Serbia and Montenegro,2006,"May 21, 2006",Europe,Modern Era
+Morocco,11-01-1944,Tuesday,11,Jan,Proclamation of Independence Day,Jan-11,1944,France and Spain,1944,"January 11, 1944",Africa,Modern Era
+Morocco,18-11-1955,Friday,18,Nov,Independence Day,Nov-18,1955,France and Spain,1955,"November 18, 1955",Africa,Modern Era
+Mozambique,25-06-1975,Wednesday,25,Jun,Independence DayDia da Independência Nacional,Jun-25,1975,Portugal,1975,"June 25, 1975",Africa,Modern Era
+Myanmar,04-01-1948,Sunday,4,Jan,Independence Day,Jan-04,1948,United Kingdom,1948,"January 4, 1948",Asia,Modern Era
+Namibia,21-03-1990,Wednesday,21,Mar,"Unspecified (1990, South Africa)",Mar-21,1990,South Africa,1990,"March 21, 1990",Africa,Modern Era
+Nauru,31-01-1968,Wednesday,31,Jan,"Unspecified (1968, Australia, New Zealand and the United Kingdom)",Jan-31,1968,"Australia, New Zealand and the United Kingdom",1968,"January 31, 1968",Oceania,Modern Era
+"Netherlands, The",26-07-1581,Sunday,26,Jul,"Unspecified (1581, Spanish Empire)",Jul-26,1581,Spanish Empire,1581,"July 26, 1581",Europe,Colonial Era
+Nicaragua,15-09-1821,Saturday,15,Sep,Independence Day,Sep-15,1821,Spanish Empire,1821,"September 15, 1821",North America,Modern Era
+Niger,03-08-1960,Wednesday,3,Aug,Independence Day,Aug-03,1960,France,1960,"August 3, 1960",Africa,Modern Era
+Nigeria,01-10-1960,Saturday,1,Oct,Independence Day,Oct-01,1960,United Kingdom,1960,"October 1, 1960",Africa,Modern Era
+North Macedonia,08-09-1991,Sunday,8,Sep,Independence Day (Den na nezavisnosta),Sep-08,1991,SFR Yugoslavia,1991,"September 8, 1991",Europe,Modern Era
+Norway,17-05-1814,Tuesday,17,May,Constitution Day,May-17,1814,Denmark,1814,"May 17, 1814",Europe,Modern Era
+Norway,07-06-1905,Wednesday,7,Jun,Independence Day,Jun-07,1905,Sweden,1905,"June 7, 1905",Europe,Modern Era
+Oman,18-11-1650,Friday,18,Nov,National Day,Nov-18,1650,Portugal,1650,"November 18, 1650",Asia,Colonial Era
+Pakistan,14-08-1947,Thursday,14,Aug,Independence Day (Youm-e-Azadi),Aug-14,1947,United Kingdom,1947,"August 14, 1947",Asia,Modern Era
+Palestine,15-11-1988,Tuesday,15,Nov,National Day,Nov-15,1988,Israel,1988,"November 15, 1988",Asia,Modern Era
+Panama,28-11-1821,Wednesday,28,Nov,"Unspecified (1821, Spain)",Nov-28,1821,Spain,1821,"November 28, 1821",North America,Modern Era
+Panama,03-11-1903,Tuesday,3,Nov,"Unspecified (1903, Colombia)",Nov-03,1903,Colombia,1903,"November 3, 1903",North America,Modern Era
+Papua New Guinea,16-09-1975,Tuesday,16,Sep,"Unspecified (1975, Australia of the former Territory of Papua and New Guinea)",Sep-16,1975,Australia of the former Territory of Papua and New Guinea,1975,"September 16, 1975",Oceania,Modern Era
+Paraguay,14-05-1811,Tuesday,14,May,Independence Day,May-14,1811,Spanish Empire[72],1811,"May 14, 1811",South America,Modern Era
+Peru,28-07-1821,Saturday,28,Jul,Fiestas Patrias,Jul-28,1821,Spanish Empire,1821,"July 28, 1821",South America,Modern Era
+Philippines,12-06-1898,Sunday,12,Jun,Independence Day (Araw ng Kalayaan or Araw ng Kasarinlan),Jun-12,1898,Spanish Empire,1898,"June 12, 1898",Asia,Modern Era
+Poland,11-11-1918,Monday,11,Nov,Independence Day (Święto Niepodległości),Nov-11,1918,Russian Soviet Federative Socialist Republic and German Empire,1918,"November 11, 1918",Europe,Modern Era
+Portugal,01-12-1640,Saturday,1,Dec,Restoration of Independence Day,Dec-01,1640,Spanish Empire,1640,"December 1, 1640",Europe,Colonial Era
+Qatar,18-12-1878,Wednesday,18,Dec,National Day,Dec-18,1878,Ottoman Empire,1878,"December 18, 1878",Asia,Modern Era
+Qatar,18-12-1971,Saturday,18,Dec,Independence from Britain,Dec-18,1971,United Kingdom,1971,"December 18, 1971",Asia,Modern Era
+Romania,09-05-1877,Wednesday,9,May,State Independence Day of Romania(Ziua Independenței de Stat a României),May-09,1877,Ottoman Empire,1877,"May 9, 1877",Europe,Modern Era
+Rwanda,01-07-1962,Sunday,1,Jul,Independence Day,Jul-01,1962,Belgium,1962,"July 1, 1962",Africa,Modern Era
+Saint Kitts and Nevis,19-09-1983,Monday,19,Sep,Independence Day,Sep-19,1983,United Kingdom,1983,"September 19, 1983",North America,Modern Era
+Saint Lucia,22-02-1979,Thursday,22,Feb,Independence Day,Feb-22,1979,United Kingdom,1979,"February 22, 1979",North America,Modern Era
+Saint Vincent and the Grenadines,27-10-1979,Saturday,27,Oct,Independence Day,Oct-27,1979,United Kingdom,1979,"October 27, 1979",North America,Modern Era
+Samoa,01-06-1962,Friday,1,Jun,"Unspecified (1962, New Zealand)",Jun-01,1962,New Zealand,1962,"June 1, 1962",Oceania,Modern Era
+São Tomé and Príncipe,12-07-1975,Saturday,12,Jul,Independence Day,Jul-12,1975,Portugal,1975,"July 12, 1975",Africa,Modern Era
+Saudi Arabia,23-09-1932,Friday,23,Sep,National Day,Sep-23,1932,None,1932,"September 23, 1932",Asia,Modern Era
+Senegal,04-04-1960,Monday,4,Apr,Independence Day,Apr-04,1960,France,1960,"April 4, 1960",Africa,Modern Era
+Serbia,15-02-1804,Wednesday,15,Feb,Statehood Day,Feb-15,1804,Ottoman Empire,1804,"February 15, 1804",Europe,Modern Era
+Seychelles,29-06-1976,Tuesday,29,Jun,"Unspecified (1976, United Kingdom)",Jun-29,1976,United Kingdom,1976,"June 29, 1976",Africa,Modern Era
+Sierra Leone,27-04-1961,Thursday,27,Apr,Independence Day,Apr-27,1961,United Kingdom,1961,"April 27, 1961",Africa,Modern Era
+Singapore,09-08-1965,Monday,9,Aug,National Day,Aug-09,1965,Malaysia,1965,"August 9, 1965",Asia,Modern Era
+Slovakia,17-07-1992,Friday,17,Jul,"Unspecified (1992, None)",Jul-17,1992,None,1992,"July 17, 1992",Europe,Modern Era
+Slovenia,25-06-1991,Tuesday,25,Jun,Independence and Unity Day,Jun-25,1991,SFR Yugoslavia,1991,"June 25, 1991",Europe,Modern Era
+Solomon Islands,07-07-1978,Friday,7,Jul,Independence Day,Jul-07,1978,United Kingdom,1978,"July 7, 1978",Oceania,Modern Era
+Somalia,01-07-1960,Friday,1,Jul,Independence Day,Jul-01,1960,Italy and United Kingdom,1960,"July 1, 1960",Africa,Modern Era
+South Africa,11-12-1931,Friday,11,Dec,Not a holiday,Dec-11,1931,United Kingdom,1931,"December 11, 1931",Africa,Modern Era
+South Sudan,09-07-2011,Saturday,9,Jul,Independence Day,Jul-09,2011,Sudan,2011,"July 9, 2011",Africa,Modern Era
+Sri Lanka,04-02-1948,Wednesday,4,Feb,Independence Day,Feb-04,1948,United Kingdom,1948,"February 4, 1948",Asia,Modern Era
+Sudan,01-01-1956,Sunday,1,Jan,Independence Day,Jan-01,1956,Egypt and the United Kingdom,1956,"January 1, 1956",Africa,Modern Era
+Suriname,25-11-1975,Tuesday,25,Nov,Independence Day,Nov-25,1975,Netherlands,1975,"November 25, 1975",South America,Modern Era
+Sweden,06-06-1523,Wednesday,6,Jun,National Day,Jun-06,1523,None,1523,"June 6, 1523",Europe,Colonial Era
+Switzerland,01-08-1291,Wednesday,1,Aug,Swiss National Day,Aug-01,1291,None,1291,"August 1, 1291",Europe,Medieval Era
+Syria,17-04-1946,Wednesday,17,Apr,Evacuation Day,Apr-17,1946,France,1946,"April 17, 1946",Asia,Modern Era
+Tajikistan,09-09-1991,Monday,9,Sep,Independence Day,Sep-09,1991,Soviet Union,1991,"September 9, 1991",Asia,Modern Era
+Tanzania,09-12-1961,Saturday,9,Dec,"Unspecified (1961, United Kingdom)",Dec-09,1961,United Kingdom,1961,"December 9, 1961",Africa,Modern Era
+Togo,27-04-1960,Wednesday,27,Apr,"Unspecified (1960, France)",Apr-27,1960,France,1960,"April 27, 1960",Africa,Modern Era
+Tonga,04-06-1970,Thursday,4,Jun,"Unspecified (1970, United Kingdom)",Jun-04,1970,United Kingdom,1970,"June 4, 1970",Oceania,Modern Era
+Trinidad and Tobago,31-08-1962,Friday,31,Aug,Independence Day,Aug-31,1962,United Kingdom,1962,"August 31, 1962",North America,Modern Era
+Tunisia,20-03-1956,Tuesday,20,Mar,Independence Day,Mar-20,1956,France,1956,"March 20, 1956",Africa,Modern Era
+Turkmenistan,27-09-1991,Friday,27,Sep,Independence Day,Sep-27,1991,Soviet Union[80],1991,"September 27, 1991",Asia,Modern Era
+Tuvalu,01-10-1978,Sunday,1,Oct,Independence Day,Oct-01,1978,United Kingdom,1978,"October 1, 1978",Oceania,Modern Era
+Uganda,09-10-1962,Tuesday,9,Oct,Independence Day,Oct-09,1962,United Kingdom,1962,"October 9, 1962",Africa,Modern Era
+Ukraine,24-08-1991,Saturday,24,Aug,Independence Day,Aug-24,1991,Soviet Union,1991,"August 24, 1991",Europe,Modern Era
+Ukraine,22-01-1919,Wednesday,22,Jan,Day of Unity,Jan-22,1919,Russian Soviet Federative Socialist Republic,1919,"January 22, 1919",Europe,Modern Era
+United Arab Emirates,02-12-1971,Thursday,2,Dec,National Day,Dec-02,1971,United Kingdom,1971,"December 2, 1971",Asia,Modern Era
+United States,04-07-1776,Thursday,4,Jul,Independence Day or Fourth of July,Jul-04,1776,Kingdom of Great Britain,1776,"July 4, 1776",North America,Colonial Era
+Uruguay,25-08-1825,Thursday,25,Aug,Independence Day,Aug-25,1825,United Provinces of the Rio de la Plata,1825,"August 25, 1825",South America,Modern Era
+Uzbekistan,01-09-1991,Sunday,1,Sep,Independence Day,Sep-01,1991,Soviet Union,1991,"September 1, 1991",Asia,Modern Era
+Vanuatu,30-07-1980,Wednesday,30,Jul,Independence Day,Jul-30,1980,United Kingdom and France,1980,"July 30, 1980",Oceania,Modern Era
+Venezuela,05-07-1811,Friday,5,Jul,Independence Day,Jul-05,1811,Spanish Empire,1811,"July 5, 1811",South America,Modern Era
+Vietnam,02-09-1945,Sunday,2,Sep,Independence Day,Sep-02,1945,Empire of Japan and France,1945,"September 2, 1945",Asia,Modern Era
+Yemen,30-11-1967,Thursday,30,Nov,"Unspecified (1967, United Kingdom)",Nov-30,1967,United Kingdom,1967,"November 30, 1967",Asia,Modern Era
+Zambia,24-10-1964,Saturday,24,Oct,Independence Day,Oct-24,1964,United Kingdom,1964,"October 24, 1964",Africa,Modern Era
+Zimbabwe,18-04-1980,Friday,18,Apr,Independence Day,Apr-18,1980,United Kingdom,1980,"April 18, 1980",Africa,Modern Era
